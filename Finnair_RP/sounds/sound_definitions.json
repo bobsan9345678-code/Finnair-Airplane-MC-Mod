@@ -1,0 +1,17 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "custom.engine_fly": {
+      "category": "neutral",
+      "sounds": ["sounds/plane_engine"]
+    },
+    "custom.alarm": {
+      "category": "neutral",
+      "sounds": ["sounds/plane_alarm"]
+    },
+    "custom.crash": {
+      "category": "neutral",
+      "sounds": ["sounds/plane_crash"]
+    }
+  }
+}
